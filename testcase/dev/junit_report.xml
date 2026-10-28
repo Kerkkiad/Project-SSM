@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SSM" tests="18" errors="0" failures="0" skipped="0" time="0.066" timestamp="2026-10-28T16:46:57.903470">
+<testcase classname="SSM" name="TC01_001_Login สามารถเข้าสู่ระบบ SecureNet ได้" time="0.002">
+</testcase>
+<testcase classname="SSM" name="TC01_002_EditScholarStudent แสดงข้อมูลนักศึกษาบนตารางแก้ไขได้" time="0.002">
+</testcase>
+<testcase classname="SSM" name="TC01_003_UploadFile Upload ไฟล์เอกสารได้" time="0.001">
+</testcase>
+<testcase classname="SSM" name="TC01_004_CheckScholarStudent แสดงข้อมูลบนตารางนักศึกษา" time="0.001">
+</testcase>
+<testcase classname="SSM" name="TC01_005_EditScholarshipDetail สามารถแก้ไขรายละเอียดทุนได้" time="0.001">
+</testcase>
+<testcase classname="SSM" name="TC01_006_NewsClick สามารถเปิดข่าวสารทุนการศึกษาได้" time="0.002">
+</testcase>
+<testcase classname="SSM" name="TC01_007_AddPaySum สามารถบันทึกข้อมูลจ่ายเงินสดได้" time="0.001">
+</testcase>
+<testcase classname="SSM" name="TC02_001_ShareArea เลือกเปลี่ยน ShareArea เพื่อนักศึกษาใหม่" time="0.001">
+</testcase>
+<testcase classname="SSM" name="TC02_002_EditScholarshipInformation แก้ไขข้อมูลนักศึกษาใหม่ได้" time="0.001">
+</testcase>
+<testcase classname="SSM" name="TC02_003_SearchScholarshipInformation ค้นหานักศึกษาใหม่ได้" time="0.001">
+</testcase>
+<testcase classname="SSM" name="TC02_004_SearchScholarshipContract ค้นหาสัญญานักศึกษาใหม่" time="0.001">
+</testcase>
+<testcase classname="SSM" name="TC02_005_EditScholarshipContract แก้ไขสัญญานักศึกษาใหม่ได้" time="0.001">
+</testcase>
+<testcase classname="SSM" name="TC02_006_TrackingExpense คำนวณวันสุดท้ายของการให้ทุน" time="0.001">
+</testcase>
+<testcase classname="SSM" name="TC02_007_NFAPConnection เลือกเปลี่ยน ShareArea_NFAP สังกัดไม่ตรงกับนักศึกษาใหม่ได้" time="0.002">
+</testcase>
+<testcase classname="SSM" name="TC02_008_ExchangeRate เลือกเปลี่ยน ShareArea_FI ตั้งอัตราแลกเปลี่ยน" time="0.001">
+</testcase>
+<testcase classname="SSM" name="TC02_009_AddExpense เพิ่มข้อมูลค่าใช้จ่าย ก.พ. ได้" time="0.002">
+</testcase>
+<testcase classname="SSM" name="TC02_010_Report อ่าน Report ในระบบได้" time="0.001">
+</testcase>
+<testcase classname="SSM" name="TC02_011_BOTShare ตรวจสอบรหัสนักศึกษา BOT-Share" time="0.001">
+</testcase>
+<properties>
+<property name="Documentation" value="Baseline all-pass suite used only to generate log/report/output artifacts."/>
+</properties>
+</testsuite>

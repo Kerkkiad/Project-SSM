@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.2 (Python 3.9.6 on darwin)" generated="2026-10-28T16:46:57.902464" rpa="false" schemaversion="5">
+<suite id="s1" name="SSM" source="/Users/blue/Documents/GitHub/Project-SSM/testcase/dev/_pass_baseline.robot">
+<test id="s1-t1" name="TC01_001_Login สามารถเข้าสู่ระบบ SecureNet ได้" line="5">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.940362" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.939964" elapsed="0.000557">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.939064" elapsed="0.001653">baseline pass</status>
+</test>
+<test id="s1-t2" name="TC01_002_EditScholarStudent แสดงข้อมูลนักศึกษาบนตารางแก้ไขได้" line="8">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.942150" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.941770" elapsed="0.000529">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.940948" elapsed="0.001581">baseline pass</status>
+</test>
+<test id="s1-t3" name="TC01_003_UploadFile Upload ไฟล์เอกสารได้" line="11">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.943655" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.943292" elapsed="0.000528">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.942763" elapsed="0.001234">baseline pass</status>
+</test>
+<test id="s1-t4" name="TC01_004_CheckScholarStudent แสดงข้อมูลบนตารางนักศึกษา" line="14">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.945251" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.944909" elapsed="0.000487">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.944238" elapsed="0.001349">baseline pass</status>
+</test>
+<test id="s1-t5" name="TC01_005_EditScholarshipDetail สามารถแก้ไขรายละเอียดทุนได้" line="17">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.946854" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.946510" elapsed="0.000503">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.945813" elapsed="0.001376">baseline pass</status>
+</test>
+<test id="s1-t6" name="TC01_006_NewsClick สามารถเปิดข่าวสารทุนการศึกษาได้" line="20">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.948644" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.948287" elapsed="0.000505">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.947416" elapsed="0.001577">baseline pass</status>
+</test>
+<test id="s1-t7" name="TC01_007_AddPaySum สามารถบันทึกข้อมูลจ่ายเงินสดได้" line="23">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.950375" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.950037" elapsed="0.000482">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.949242" elapsed="0.001458">baseline pass</status>
+</test>
+<test id="s1-t8" name="TC02_001_ShareArea เลือกเปลี่ยน ShareArea เพื่อนักศึกษาใหม่" line="26">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.951978" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.951641" elapsed="0.000480">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.950925" elapsed="0.001371">baseline pass</status>
+</test>
+<test id="s1-t9" name="TC02_002_EditScholarshipInformation แก้ไขข้อมูลนักศึกษาใหม่ได้" line="29">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.953562" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.953217" elapsed="0.000489">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.952530" elapsed="0.001349">baseline pass</status>
+</test>
+<test id="s1-t10" name="TC02_003_SearchScholarshipInformation ค้นหานักศึกษาใหม่ได้" line="32">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.955133" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.954683" elapsed="0.000600">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.954107" elapsed="0.001379">baseline pass</status>
+</test>
+<test id="s1-t11" name="TC02_004_SearchScholarshipContract ค้นหาสัญญานักศึกษาใหม่" line="35">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.956670" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.956335" elapsed="0.000479">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.955714" elapsed="0.001274">baseline pass</status>
+</test>
+<test id="s1-t12" name="TC02_005_EditScholarshipContract แก้ไขสัญญานักศึกษาใหม่ได้" line="38">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.958203" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.957865" elapsed="0.000481">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.957212" elapsed="0.001308">baseline pass</status>
+</test>
+<test id="s1-t13" name="TC02_006_TrackingExpense คำนวณวันสุดท้ายของการให้ทุน" line="41">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.959824" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.959465" elapsed="0.000510">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.958743" elapsed="0.001418">baseline pass</status>
+</test>
+<test id="s1-t14" name="TC02_007_NFAPConnection เลือกเปลี่ยน ShareArea_NFAP สังกัดไม่ตรงกับนักศึกษาใหม่ได้" line="44">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.961833" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.961460" elapsed="0.000520">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.960391" elapsed="0.001764">baseline pass</status>
+</test>
+<test id="s1-t15" name="TC02_008_ExchangeRate เลือกเปลี่ยน ShareArea_FI ตั้งอัตราแลกเปลี่ยน" line="47">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.963474" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.963139" elapsed="0.000484">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.962387" elapsed="0.001409">baseline pass</status>
+</test>
+<test id="s1-t16" name="TC02_009_AddExpense เพิ่มข้อมูลค่าใช้จ่าย ก.พ. ได้" line="50">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.965383" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.964955" elapsed="0.000605">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.964159" elapsed="0.001612">baseline pass</status>
+</test>
+<test id="s1-t17" name="TC02_010_Report อ่าน Report ในระบบได้" line="53">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.966885" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.966537" elapsed="0.000510">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.966027" elapsed="0.001206">baseline pass</status>
+</test>
+<test id="s1-t18" name="TC02_011_BOTShare ตรวจสอบรหัสนักศึกษา BOT-Share" line="56">
+<kw name="Pass Execution" owner="BuiltIn">
+<msg time="2026-10-28T16:46:57.968366" level="INFO">Execution passed with message:
+baseline pass</msg>
+<arg>baseline pass</arg>
+<doc>Skips rest of the current test, setup, or teardown with PASS status.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.968024" elapsed="0.000494">baseline pass</status>
+</kw>
+<status status="PASS" start="2026-10-28T16:46:57.967458" elapsed="0.001254">baseline pass</status>
+</test>
+<doc>Baseline all-pass suite used only to generate log/report/output artifacts.</doc>
+<status status="PASS" start="2026-10-28T16:46:57.903470" elapsed="0.065594"/>
+</suite>
+<statistics>
+<total>
+<stat pass="18" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="SSM" id="s1" pass="18" fail="0" skip="0">SSM</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
